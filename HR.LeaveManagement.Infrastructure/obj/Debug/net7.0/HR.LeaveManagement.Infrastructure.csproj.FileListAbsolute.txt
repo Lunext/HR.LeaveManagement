@@ -1,0 +1,17 @@
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Infrastructure.deps.json
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Infrastructure.dll
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Infrastructure.pdb
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.CopyComplete
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.dll
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\refint\HR.LeaveManagement.Infrastructure.dll
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.pdb
+D:\Csharp is gonna make me rich\Clean Architecture Course\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\ref\HR.LeaveManagement.Infrastructure.dll

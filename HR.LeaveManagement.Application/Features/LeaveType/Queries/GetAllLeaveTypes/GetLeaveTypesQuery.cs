@@ -5,18 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HR.LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveTypes
-{
-    //public class GetLeaveTypesQuery: IRequest<List<LeaveTypeDto>>
-    //{
-
-    //}
-
-    public record GetLeaveTypeDetailsQuery : IRequest<List<LeaveTypesDto>>;
-    
-
-    
+namespace HR.LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveTypes;
 
 
 
-}
+public record GetLeaveTypesQuery : IRequest<List<LeaveTypesDto>>;
